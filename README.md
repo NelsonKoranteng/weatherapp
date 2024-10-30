@@ -16,25 +16,20 @@ Responsive Design: Styled with CSS to look good on all devices, with a backgroun
 Installation
 Clone the repository:
 
-bash
-
 git clone https://github.com/your-username/weather-app.git
 cd weather-app
+
 Install dependencies:
-
-bash
-
 npm install
-Set up API keys:
 
+Set up API keys:
 Sign up on RapidAPI and subscribe to the OpenWeather API.
 Replace YOUR_RAPIDAPI_KEY in weatherapp.js with your API key.
+
 Usage
 Start the server:
-
-bash
-
 node weatherapp.js
+
 Open in Browser: Navigate to http://localhost:3000 in your browser.
 
 Enter a City: Type in a city name and submit to view the weather and icon.
